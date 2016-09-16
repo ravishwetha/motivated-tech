@@ -1,0 +1,3 @@
+markdow: redredcarpet
+baseurl: /motivated-tech
+exclude: ['README.md']
