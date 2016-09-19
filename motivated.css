@@ -1,0 +1,116 @@
+body{
+		margin-right: 0px;
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+
+}
+
+header {
+
+		
+		margin-right: 0px;
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+}
+
+
+		
+#main{
+	background: #c1b7ad;
+	width: 100%;
+	height: 70px;
+	line-height: 70px;
+	font-family: Verdana, sans-serif;
+	opacity: 0.7;
+	alpha: filter (opacity=70);
+	position: fixed;
+
+
+}
+
+#main ul {
+	float: right;
+	margin-right: 20px;
+}
+
+#main ul li{
+	list-style-type: none;
+	display: inline;
+
+}
+
+#main ul li: hover{
+	background: red;
+}
+
+#main ul li a{
+	font-size: 20px;
+	color: white;
+	text-decoration:none;
+	padding:20px 20px;
+	margin-bottom: 20px;
+
+}
+
+
+#banner {
+	background: url(../image/grp.jpg);
+	background-size: cover;
+	padding: 300px 0;
+		
+		
+	text-align: center;
+
+}
+
+#banner h1{
+
+	font-family: 'Arial';
+	margin-top: 0px;
+	margin-bottom: 0;
+	text-align: center;
+	font-size: 70px;
+	font-weight: 700px;
+	line-height: 150%;
+	color: 	#32CD32;
+	letter-spacing: 0.1em;
+	clear: both;
+
+}
+
+.kicker{
+	margin-top: 10px;
+	text-align: center;
+	color: #ff1a1a;
+	font-size: 40px;
+
+	font-weight: bold;
+	letter-spacing: 0.1em;
+}
+
+
+.button{
+	padding: 15px 20px;
+	text-decoration: none;
+	width: 200px;	
+	background: #0039e6;
+	line-height: 60px;
+	font-weight: bold;
+	color: white;
+	
+	box-shadow: 0px 0px 2px rgba(0,0,0, 0.5),
+	
+
+	font-size: 100px;
+	text-align: center;
+	color: white;
+	letter-spacing: 0.1em;
+	
+	
+}
+
+
+
+
